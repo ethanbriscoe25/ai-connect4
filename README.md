@@ -1,2 +1,2 @@
 # ai-connect4
-A game of connect 4 with a fully automated AI opponent
+A game of connect 4 with a fully automated AI opponent built in Python
